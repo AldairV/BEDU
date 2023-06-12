@@ -1,2 +1,3 @@
-This is the main repository
 # BEDU
+
+Contents about Session 1.
